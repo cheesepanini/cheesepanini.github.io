@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "李劭辉 / 研究员"
 title_separator          : "-"
 name                     : &name "Shaohui Li"
 description              : &description "personal description"
