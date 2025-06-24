@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-李劭辉，清华大学助理研究员、博士后，研究兴趣主要包含视频图像编码、信号处理、多智能体系统等，当前主持国家自然科学基金青年项目，并参与了国家自然科学基金重大项目、重点项目多项。曾获中国电子学会科技进步二等奖、上海市科技进步一等奖等荣誉，并入选2023年度博士后创新人才支持计划。在相关领域期刊和会议IEEE TSP、IEEE TCSVT、ICLR、ICML、ECCV等发表论文三十余篇，授权发明专利19项。
+李劭辉，清华大学助理研究员、博士后，研究兴趣主要包含视频图像编码、信号处理、多智能体系统等，当前主持国家自然科学基金青年项目，并参与了国家自然科学基金重大项目、重点项目多项。曾获中国电子学会科技进步二等奖、上海市科技进步一等奖等荣誉，并入选2023年度博士后创新人才支持计划。在相关领域期刊和会议IEEE TSP、IEEE TCSVT、ICLR、ICML、ECCV等发表论文30+篇，授权发明专利19项。
 
 研究方向
 ======
@@ -20,36 +20,24 @@ redirect_from:
 
 招生&招募信息
 ======
-1. 本人从2026级开始在浙江大学信电学院招收博士生，欢迎各位同学联系我~
+1. 招收2026级博士生，欢迎各位同学联系我~
 2. 提供科研实习机会，欢迎对相关研究方向有兴趣的本科生同学联系我~
 3. 长期招募博士后、工程师等，欢迎各位有意向合作的同仁联系我~
 4. 欢迎大家邮件联系：lishaohui@sz.tsinghua.edu.cn
 
 工作经历
 ======
-- 浙江大学，信电学院，研究员
-
-  2025年8月（预计）入职
-
-- 清华大学，计算机科学与技术流动站，博士后
-
+- 浙江大学，信电学院，研究员、博导\
+  预计2025年8月入职
+- 清华大学，计算机科学与技术流动站，博士后\
   2022年12月 - 2025年7月（预计）
 
 
 教育背景
 ======
-- 上海交通大学，信息与通信系统，工学博士
-
+- 上海交通大学，信息与通信系统，工学博士\
   2019年9月 - 2022年9月
-
-- 上海交通大学，信息与通信系统，工学硕士
-  
+- 上海交通大学，信息与通信系统，工学硕士\
   2016年9月 - 2022年3月
-
-- 大连理工大学，电子信息工程，工学学士
-  
+- 大连理工大学，电子信息工程，工学学士\
   2012年9月 - 2016年6月
-
-所获基金
-======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
