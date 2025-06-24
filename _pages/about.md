@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+李劭辉，清华大学助理研究员、博士后，研究兴趣主要包含视频图像编码、信号处理、多智能体系统等，当前主持国家自然科学基金青年项目，并参与了国家自然科学基金重大项目、重点项目多项。曾获中国电子学会科技进步二等奖、上海市科技进步一等奖等荣誉，并入选2023年度博士后创新人才支持计划。在相关领域期刊和会议IEEE TSP、IEEE TCSVT、ICLR、ICML、ECCV等发表论文三十余篇，授权发明专利19项。
 
 A data-driven personal website
 ======
