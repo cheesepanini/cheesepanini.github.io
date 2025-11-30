@@ -1,43 +1,42 @@
 ---
 permalink: /
-title: "个人简介"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-李劭辉，浙江大学信电学院百人计划研究员、博导，研究兴趣主要包含视频图像编码、信号处理、多智能体系统等，当前主持国家自然科学基金青年项目，并参与了国家自然科学基金重大项目、重点项目多项。曾获中国电子学会科技进步二等奖、上海市科技进步一等奖等荣誉，并入选2023年度博士后创新人才支持计划。在相关领域期刊和会议IEEE TSP、IEEE TCSVT、ICLR、ICML、ECCV等发表论文40+篇，授权发明专利10+项（含2项美国发明专利），参与专著《人工智能发展前沿》编著。
+**Shaohui Li (李劭辉)** is a ZJU100 Young Professor (Hundred Talents Program Research Fellow) and Ph.D. Supervisor at the College of Information Science & Electronic Engineering, Zhejiang University. His research interests mainly include **video and image coding**, **signal processing**, and **multi-agent systems**. Currently, he is leading a National Natural Science Foundation of China (NSFC) Young Scientists Fund project and has participated in multiple major and key NSFC projects. He has received honors such as the Second Prize for Technological Invention from the Chinese Institute of Electronics and the First Prize for Science and Technology Progress from Shanghai Municipality. He was also selected for the 2023 Postdoctoral Innovative Talent Support Program. He has published over 40 papers in relevant journals and conferences including IEEE TSP, IEEE TCSVT, ICLR, ICML, ECCV, etc., and holds over 10 authorized invention patents (including 2 US patents). He co-authored the monograph *Frontier of Artificial Intelligence Development (人工智能发展前沿)*.
 
-研究方向
+Research Directions
 ======
-- 深度学习 & 信号处理\
-  数据驱动的非线性变换、可学习的滤波器组/可逆变换
-- 视频图像编码\
-  AI Codec、渐进编码、无损编码、面向机器智能的编码
-- 多智能体系统\
-  通信、感知、规划、决策、仿真（物理仿真 & 世界模型）
+- **Deep Learning & Signal Processing**\
+data-driven nonlinear transforms, learnable filter banks / invertible transforms\
+- **Video and Image Coding**\
+AI Codec, progressive coding, lossless coding, coding for machine intelligence
+- **Multi-Agent Systems**\
+communication, perception, planning, decision-making, simulation (physics-based simulation & world models)
 
-招生&招募信息
+Openings & Recruitment
 ======
-1. 招收2027级博士生，欢迎各位同学联系~
-2. 提供科研实习机会，欢迎对相关研究方向有兴趣的本科生同学联系~
-3. 长期招募博士后、工程师等，欢迎各位有意向合作的同仁联系~
-4. 欢迎大家邮件联系：[lishaohui@zju.edu.cn](lishaohui@zju.edu.cn)
+1.  We are recruiting Ph.D. students for the 2027 cohort. Interested students are welcome to contact us!
+2.  We offer research internship opportunities. Undergraduate students interested in the research directions are welcome to contact us!
+3.  We are continuously looking for Postdoctoral Researchers, Engineers, and other collaborators. Interested colleagues are welcome to contact us!
+4.  Please feel free to contact me via email: [lishaohui@zju.edu.cn](lishaohui@zju.edu.cn)
 
-工作经历
+Working Experience
 ======
-- 浙江大学，信电学院，百人计划研究员、博导，2025年9月 - 至今 
-- 清华大学，计算机科学与技术流动站，博士后，2022年 - 2025年
+* **Zhejiang University**, College of Information Science & Electronic Engineering, ZJU100 Young Professor, Ph.D. Supervisor, Sept. 2025 - Present 
+* **Tsinghua University**, Postdoctoral Fellow in Computer Science and Technology, 2022 - 2025
 
-教育背景
+Education
 ======
-- 博士：上海交通大学，信息与通信工程，2022年（导师：[熊红凯 教授](https://min.sjtu.edu.cn/)）
-- 硕士：上海交通大学，信息与通信工程，2019年（导师：[熊红凯 教授](https://min.sjtu.edu.cn/)）
-- 学士：大连理工大学，电子信息工程，2016年
+* **Ph.D.:** Shanghai Jiao Tong University, Information and Communication Engineering, 2022 (Supervisor: [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/))
+* **M.S.:** Shanghai Jiao Tong University, Information and Communication Engineering, 2019 (Supervisor: [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/))
+* **B.Eng.:** Dalian University of Technology, Electronic Information Engineering, 2016
 
-
-发表论文
+Publications
 ======
 
 ### I. Journal Papers
@@ -57,7 +56,7 @@ redirect_from:
 * Baihui Xiao, Shulan Ruan\*, Zhi Li, **Shaohui Li**, Yu Liu, Xiu Li, You He. "Improving Radar–Camera Fusion for 3D Object Detection via Eliciting Knowledge From Foundation Model." *IEEE/ASME Transactions on Mechatronics (TMech)*, Early Access, 2025. DOI: 10.1109/TMECH.2025.3584379. (JCR Q1, IF=7.3)
 * Huajie Wang, Zhi Li, **Shaohui Li**, Yu Liu\*, You He. "Unfolding Sample-Level Difficulty for Adaptive Pseudo-Labeling in Semi-Supervised Learning." *Chinese Journal of Electronics (CJE)*, vol. 35, no.2, pp. 1-14, 2026. DOI: 10.23919/cje.2025.00.128.
 * You He, Shulan Ruan\*, Dong Wang\*, Huchuan Lu, Zhi Li, Yang Liu, Xu Chen, **Shaohui Li**, Jie Zhao, Jiaxuan Liang. "Intelligent Decision-Making Driven by Large AI Models: Progress, Challenges and Prospects." *CAAI Transactions on Intelligence Technology (CIT)*, Early Access, 2025. DOI: 10.1049/cit2.70084.
-* 董浩, 李劭辉, 阚诺文, 郑紫阳, 戴文睿, 熊红凯. "基于深度压缩感知的联合信源信道编码方法研究." *电子学报*. 已录用, 2025.
+* Hao Dong, Shaohui Li, Nuowen Kan, Ziyang Zheng, Wenrui Dai, Hongkai Xiong. "Research on Joint Source-Channel Coding Method Based on Deep Compressed Sensing." *Acta Electronica Sinica*. Accepted, 2025.
 
 ### II. Conference Papers
 
@@ -92,4 +91,4 @@ redirect_from:
 * Runqi Yang, Yu Liu\*, Zhi Li, **Shaohui Li**, Likang Wu. "Rethinking Offline Reinforcement Learning for Sequential Recommendation from A Pair-Wise Q-Learning Perspective." *International Joint Conference on Neural Networks (IJCNN 2024)*, Yokohama, Japan, Jun. 30-Jul. 5, 2024.
 
 ### III. Books
-* 何友, 卢湖川, 王栋, 李徵, 陈旭, **李劭辉**. 人工智能发展前沿. 北京: 清华大学出版社, 2025年10月.（[京东链接](https://item.jd.com/14539183.html)）
+* You He, Huchuan Lu, Dong Wang, Zheng Li, Xu Chen, **Shaohui Li**. "Frontiers of Artificial Intelligence Development." Beijing: Tsinghua University Press, October 2025. ([JD Link](https://item.jd.com/14539183.html))

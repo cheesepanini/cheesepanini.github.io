@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "李劭辉 / 博士"
+title                    : "Dr. Shaohui Li"
 title_separator          : "-"
-name                     : &name "李劭辉"
-description              : &description "浙江大学信电学院百人计划研究员"
+name                     : &name "Shaohui Li"
+description              : &description "ZJU100 Young Professor"
 url                      : https://cheesepanini.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李劭辉"
+  name             : "Shaohui Li"
   pronouns         : # example: "she/her"  
-  bio              : "百人计划研究员、博导"
-  location         : "浙江·杭州"
-  employer         : "浙江大学 信电学院"
+  bio              : "ZJU100 Young Professor, Ph.D. Supervisor"
+  location         : "Hangzhou, Zhejiang, China"
+  employer         : "Zhejiang University"
   uri              : # URL
   email            : "lishaohui@zju.edu.cn" 
 
