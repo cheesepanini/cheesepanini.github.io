@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Dr. Shaohui Li"
 title_separator          : "-"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shaohui Li"
   pronouns         : # example: "she/her"  
-  bio              : "ZJU100 Young Professor, Ph.D. Supervisor"
+  bio              : "ZJU100 Young Professor\nPh.D. Supervisor"
   location         : "Hangzhou, Zhejiang, China"
   employer         : "Zhejiang University"
   uri              : # URL
