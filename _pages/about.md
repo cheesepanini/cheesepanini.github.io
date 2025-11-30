@@ -9,7 +9,7 @@ redirect_from:
 
 **Shaohui Li (李劭辉)** is a ZJU100 Young Professor (Hundred Talents Program Research Fellow) and Ph.D. Supervisor at the College of Information Science & Electronic Engineering, Zhejiang University. His research interests mainly include **video and image coding**, **signal processing**, and **multi-agent systems**. Currently, he is leading a National Natural Science Foundation of China (NSFC) Young Scientists Fund project and has participated in multiple major and key NSFC projects. He has received honors such as the Second Prize for Technological Invention from the Chinese Institute of Electronics and the First Prize for Science and Technology Progress from Shanghai Municipality. He was also selected for the 2023 Postdoctoral Innovative Talent Support Program. He has published over 40 papers in relevant journals and conferences including IEEE TSP, IEEE TCSVT, ICLR, ICML, ECCV, etc., and holds over 10 authorized invention patents (including 2 US patents). He co-authored the monograph *Frontier of Artificial Intelligence Development (人工智能发展前沿)*.
 
-Research Directions
+Research Interests
 ======
 - **Deep Learning & Signal Processing**\
 data-driven nonlinear transforms, learnable filter banks / invertible transforms\
