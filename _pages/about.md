@@ -18,12 +18,14 @@ AI Codec, progressive coding, lossless coding, coding for machine intelligence
 - **Multi-Agent Systems**\
 communication, perception, planning, decision-making, simulation (physics-based simulation & world models)
 
-Openings & Recruitment
+Join My Team / Opportunities
 ======
-1.  We are recruiting Ph.D. students for the 2027 cohort. Interested students are welcome to contact us!
-2.  We offer research internship opportunities. Undergraduate students interested in the research directions are welcome to contact us!
-3.  We are continuously looking for Postdoctoral Researchers, Engineers, and other collaborators. Interested colleagues are welcome to contact us!
-4.  Please feel free to contact me via email: [lishaohui@zju.edu.cn](lishaohui@zju.edu.cn)
+I am always looking for motivated students and researchers to join my team.
+
+1.  **Prospective Ph.D. Students (2027 Cohort):** I welcome applications for the 2027 Ph.D. program. Interested candidates are welcome to contact me to discuss your background and research interests.
+2.  **Research Interns:** Research opportunities are available for highly motivated undergraduate students interested in my research areas.
+3.  **Postdoctoral Fellows & Research Engineers:** I am continuously recruiting Postdocs and Research Engineers. Colleagues interested in collaboration are strongly encouraged to contact me.
+4.  **Contact:** Please send your CV and a statement of your research interests to: [lishaohui@zju.edu.cn](lishaohui@zju.edu.cn)
 
 Working Experience
 ======
