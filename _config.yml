@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shaohui Li"
-  pronouns         : # example: "she/her"  
-  bio              : "ZJU100 Young Professor\nPh.D. Supervisor"
+  pronouns         : "Ph.D. Supervisor" # example: "she/her"  
+  bio              : "ZJU100 Young Professor"
   location         : "Hangzhou, Zhejiang, China"
   employer         : "Zhejiang University"
   uri              : # URL
