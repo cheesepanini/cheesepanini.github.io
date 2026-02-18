@@ -12,7 +12,7 @@ redirect_from:
 Research Interests
 ======
 - **Deep Learning & Signal Processing**\
-data-driven nonlinear transforms, learnable filter banks / invertible transforms\
+data-driven nonlinear transforms, learnable filter banks, invertible transforms
 - **Video and Image Coding**\
 AI Codec, progressive coding, lossless coding, coding for machine intelligence
 - **Multi-Agent Systems**\
