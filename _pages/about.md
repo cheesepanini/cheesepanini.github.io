@@ -45,6 +45,7 @@ Publications
 
 ### 2026
 
+* Shiyu Liu, Wenrui Dai\*, **Shaohui Li**, Ziyang Zheng, Junni Zou, Hongkai Xiong. "Stable Representation Learning via Generalized Learnable Graph Scattering Transform." *IEEE Transactions on Signal Processing (TSP)*, Early Access, 2026. DOI: 10.1109/TSP.2026.3660885.
 * Huajie Wang, Zhi Li, **Shaohui Li**, Yu Liu\*, You He. "Unfolding Sample-Level Difficulty for Adaptive Pseudo-Labeling in Semi-Supervised Learning." *Chinese Journal of Electronics (CJE)*, vol. 35, no.2, pp. 1-14, 2026. DOI: 10.23919/cje.2025.00.128.
 * Huajie Wang, Zhi Li\*, **Shaohui Li**, Yu Liu\*, You He. "Low-confidence Pseudo-label Decoupling Exploration for Source Free Object Detection." *IEEE Signal Processing Letters (SPL)*, Accepted, 2026.
 
