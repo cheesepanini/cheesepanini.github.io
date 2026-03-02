@@ -47,11 +47,11 @@ Publications
 
 * Shiyu Liu, Wenrui Dai\*, **Shaohui Li**, Ziyang Zheng, Junni Zou, Hongkai Xiong. "Stable Representation Learning via Generalized Learnable Graph Scattering Transform." *IEEE Transactions on Signal Processing (TSP)*, Early Access, 2026. DOI: 10.1109/TSP.2026.3660885.
 * Huajie Wang, Zhi Li, **Shaohui Li**, Yu Liu\*, You He. "Unfolding Sample-Level Difficulty for Adaptive Pseudo-Labeling in Semi-Supervised Learning." *Chinese Journal of Electronics (CJE)*, vol. 35, no.2, pp. 1-14, 2026. DOI: 10.23919/cje.2025.00.128.
-* Huajie Wang, Zhi Li\*, **Shaohui Li**, Yu Liu\*, You He. "Low-confidence Pseudo-label Decoupling Exploration for Source Free Object Detection." *IEEE Signal Processing Letters (SPL)*, Accepted, 2026.
+* Huajie Wang, Zhi Li\*, **Shaohui Li**, Yu Liu\*, You He. "Low-confidence Pseudo-label Decoupling Exploration for Source Free Object Detection." *IEEE Signal Processing Letters (SPL)*, vol. 33, pp. 908-912, 2026.
 
 ### 2025
 
-* Hao Dong, Shaohui Li, Nuowen Kan, Ziyang Zheng, Wenrui Dai, Hongkai Xiong. "Research on Joint Source-Channel Coding Method Based on Deep Compressed Sensing." *Acta Electronica Sinica*. Accepted, 2025.
+* Hao Dong, **Shaohui Li**, Nuowen Kan, Ziyang Zheng, Wenrui Dai, Hongkai Xiong. "Research on Joint Source-Channel Coding Method Based on Deep Compressed Sensing." *Acta Electronica Sinica*. Accepted, 2025.
 * You He, Shulan Ruan\*, Dong Wang\*, Huchuan Lu, Zhi Li, Yang Liu, Xu Chen, **Shaohui Li**, Jie Zhao, Jiaxuan Liang. "Intelligent Decision-Making Driven by Large AI Models: Progress, Challenges and Prospects." *CAAI Transactions on Intelligence Technology (CIT)*, vol. 10, no. 6, pp. 1573-1592, Dec. 2025.
 * Baihui Xiao, Shulan Ruan\*, Zhi Li, **Shaohui Li**, Yu Liu, Xiu Li, You He. "Improving Radar–Camera Fusion for 3D Object Detection via Eliciting Knowledge From Foundation Model." *IEEE/ASME Transactions on Mechatronics (TMech)*, vol. 30, no. 6, pp. 4216-4225, Dec. 2025. (JCR Q1, IF=7.3)
 * Xin Li, **Shaohui Li**\*, Wenrui Dai\*, Han Li, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong. "Point Cloud Attribute Compression With Geometry-Aware Lifting-Based Multiscale Networks." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 36, no. 1, pp. 1143-1159, Jan. 2026. (JCR Q1, IF=11.1)
