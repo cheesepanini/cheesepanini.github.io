@@ -86,6 +86,7 @@ Publications
 ### 2025
 
 * Haolin Luan, Shuoyu Ma, **Shaohui Li**\*, Wenrui Dai, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong. "Efficient Conditional Entropy Coding for Learned  Progressive Image and Video Compression." *IEEE International Conference on Visual Communications and Image Processing (VCIP 2025)*, Klagenfurt, Austria, Dec. 1-4, 2025.
+* Yuhui Du, Nuowen Kan, Chenglin Li, Junni Zou, Ziyang Zheng, **Shaohui Li**, Wenrui Dai, Qingli Li, Hongkai Xiong. "Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach" *IEEE International Conference on Visual Communications and Image Processing (VCIP 2025)*, Klagenfurt, Austria, Dec. 1-4, 2025.
 * Yuankun Zeng, **Shaohui Li**, Zhi Li, Shulan Ruan, Yu Liu\*, You He. "Communication-Efficient Collaborative Perception with Semantic and Statistical Compression." *Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025)*, Shanghai, China, Oct. 16-19, 2025.
 * Han Li, **Shaohui Li**\*, Wenrui Dai\*, Maida Cao, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong. "On Disentangled Training for Nonlinear Transform in Learned Image Compression." *International Conference on Learning Representations (ICLR 2025)*, Singapore, Apr. 24-28, 2025. (Spotlight, TOP)
 * Yilin Jin, **Shaohui Li**, Zhi Li, Yu Liu\*. "Low-Resolution Hierarchical Training for Efficient 3D Gaussian Splatting." *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP’2025)*, Hyderabad, India, Apr. 6-11, 2025.
