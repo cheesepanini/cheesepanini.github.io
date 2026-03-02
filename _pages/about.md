@@ -52,9 +52,9 @@ Publications
 ### 2025
 
 * Hao Dong, Shaohui Li, Nuowen Kan, Ziyang Zheng, Wenrui Dai, Hongkai Xiong. "Research on Joint Source-Channel Coding Method Based on Deep Compressed Sensing." *Acta Electronica Sinica*. Accepted, 2025.
-* You He, Shulan Ruan\*, Dong Wang\*, Huchuan Lu, Zhi Li, Yang Liu, Xu Chen, **Shaohui Li**, Jie Zhao, Jiaxuan Liang. "Intelligent Decision-Making Driven by Large AI Models: Progress, Challenges and Prospects." *CAAI Transactions on Intelligence Technology (CIT)*, Early Access, 2025. DOI: 10.1049/cit2.70084.
+* You He, Shulan Ruan\*, Dong Wang\*, Huchuan Lu, Zhi Li, Yang Liu, Xu Chen, **Shaohui Li**, Jie Zhao, Jiaxuan Liang. "Intelligent Decision-Making Driven by Large AI Models: Progress, Challenges and Prospects." *CAAI Transactions on Intelligence Technology (CIT)*, vol. 10, no. 6, pp. 1573-1592, Dec. 2025.
 * Baihui Xiao, Shulan Ruan\*, Zhi Li, **Shaohui Li**, Yu Liu, Xiu Li, You He. "Improving Radar–Camera Fusion for 3D Object Detection via Eliciting Knowledge From Foundation Model." *IEEE/ASME Transactions on Mechatronics (TMech)*, vol. 30, no. 6, pp. 4216-4225, Dec. 2025. (JCR Q1, IF=7.3)
-* Xin Li, **Shaohui Li**\*, Wenrui Dai\*, Han Li, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong. "Point Cloud Attribute Compression With Geometry-Aware Lifting-Based Multiscale Networks." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, Early Access, 2025. DOI: 10.1109/TCSVT.2025.3597448. (JCR Q1, IF=11.1)
+* Xin Li, **Shaohui Li**\*, Wenrui Dai\*, Han Li, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong. "Point Cloud Attribute Compression With Geometry-Aware Lifting-Based Multiscale Networks." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 36, no. 1, pp. 1143-1159, Jan. 2026. (JCR Q1, IF=11.1)
 * Maida Cao, Wenrui Dai\*, **Shaohui Li**\*, Chenglin Li, Junni Zou, Ying Chen, Hongkai Xiong. "Generative Probabilistic Entropy Modeling with Conditional Diffusion for Learned Image Compression." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 35, no. 9, pp. 9443-9459, Sept. 2025. (JCR Q1, IF=11.1)
 * **Shaohui Li**, Wenrui Dai\*, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong. "Learnable Non-uniform Quantization With Sampling-based Optimization for Variable-Rate Learned Image Compression." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 35, no. 8, pp. 8314-8329, Aug. 2025. (JCR Q1, IF=11.1)
 * Yuxin Ke, **Shaohui Li**, Zhi Li, Haoran Li, Yu Liu\*, You He. "ArenaSim: A High-Performance Simulation Platform for Multi-Robot Self-Play Learning." *IEEE Robotics and Automation Letters (RAL)*, vol. 10, no. 6, pp.5497-5504, June 2025. (JCR Q1, IF=5.3)
@@ -70,7 +70,7 @@ Publications
 * Yuehan Xiong, Wenrui Dai\*, Wen Fei, **Shaohui Li**, Hongkai Xiong\*. "Anisotropic Spherical Scattering Networks via Directional Spin Wavelet." *IEEE Transactions on Signal Processing (TSP)*, vol. 71, pp. 2981-2996, Aug. 2023. (JCR Q1, IF=5.8)
 * **Shaohui Li**, Han Li, Wenrui Dai\*, Chenglin Li, Junni Zou, Hongkai Xiong. "Learned Progressive Image Compression with Dead-Zone Quantizers." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 33, no. 6, pp. 2962-2978, June 2023. (JCR Q1, IF=11.1)
 * Lisha Wang, Chenglin Li\*, Wenrui Dai, **Shaohui Li**, Junni Zou, Hongkai Xiong. "QoE-Driven Adaptive Streaming for Point Clouds." *IEEE Transactions on Multimedia (TMM)*, vol. 25, pp. 2543-2558, Feb. 2023. (JCR Q1, IF=9.7)
-* Maida Cao, Wenrui Dai\*, **Shaohui Li**, Chenglin Li, Junni Zou, Ying Chen, Hongkai Xiong. "End-to-End Optimized Image Compression with Deep Gaussian Process Regression." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, Early Access, 2022. DOI: 10.1109/TCSVT.2022.3209661 (JCR Q1, IF=11.1)
+* Maida Cao, Wenrui Dai\*, **Shaohui Li**, Chenglin Li, Junni Zou, Ying Chen, Hongkai Xiong. "End-to-End Optimized Image Compression with Deep Gaussian Process Regression." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 35, no. 4, pp. 3770-3785, April 2025. (JCR Q1, IF=11.1)
 * **Shaohui Li**, Wenrui Dai\*, Ziyang Zheng, Chenglin Li, Junni Zou, Hongkai Xiong. "Reversible Autoencoder: A CNN-based Nonlinear Lifting Scheme for Image Reconstruction." *IEEE Transactions on Signal Processing (TSP)*, vol. 69, pp. 3117-3131, June 2021. (JCR Q1, IF=5.8)
 
 
@@ -78,8 +78,8 @@ Publications
 
 ### 2026
 
-* Yuwen Pan, Yuan Wang, **Shaohui Li**, Zhi Li, Yu LIU, You He. "From Attraction to Equilibrium: Physics-Inspired Semantic Gravitons for Zero-Shot Anomaly Detection." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)*, Accepted, 2026.
-* Zhao-Han Peng, **Shaohui Li**, Zhi Li, Shulan Ruan, Yu LIU, You He. "From Observations to Events: Event-Aware World Models for Reinforcement Learning." *International Conference on Learning Representations (ICLR’2026)*, Rio de Janeiro, Brazil, Apr. 23-25, 2026.
+* Yuwen Pan, Yuan Wang, **Shaohui Li**, Zhi Li, Yu Liu, You He. "From Attraction to Equilibrium: Physics-Inspired Semantic Gravitons for Zero-Shot Anomaly Detection." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)*, Denver, CO, USA, Jun. 3-7, 2026.
+* Zhao-Han Peng, **Shaohui Li**, Zhi Li, Shulan Ruan, Yu Liu, You He. "From Observations to Events: Event-Aware World Models for Reinforcement Learning." *International Conference on Learning Representations (ICLR’2026)*, Rio de Janeiro, Brazil, Apr. 23-25, 2026.
 * Hao Dong, Nuowen Kan\*, Wenrui Dai, **Shaohui Li**, Ziyang Zheng, Chenglin Li, Junni Zou, Hongkai Xiong. "Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation." *IEEE Data Compression Conference (DCC’2026)*, Snowbird, Utah, USA, Mar. 24-27, 2026.
 * Shuoyu Ma, Wenrui Dai\*, Maida Cao, **Shaohui Li**, Ziyang Zheng, Chenglin Li, Junni Zou, Hongkai Xiong. "Pushing Bit-Width Limits in LLM Quantization With Saliency-Guided Mix-Precision Allocation and Learnable Affine Transformation." *IEEE Data Compression Conference (DCC’2026)*, Snowbird, Utah, USA, Mar. 24-27, 2026.
 
