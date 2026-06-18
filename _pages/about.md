@@ -85,6 +85,7 @@ Publications
 
 ### 2026
 
+* Yuankun Zeng, **Shaohui Li**, Zhi Li, Shulan Ruan, Yu LIU, You He. "Multi-Agent Collaborative Perception with Multi-Reference Deep Contextual Coding." *European Conference on Computer Vision (ECCV 2026)*, Malmö, Sweden, USA, Sept. 8-13, 2026.
 * Hao Dong, Nuowen Kan, Wenrui Dai, **Shaohui Li**, Ziyang Zheng, Chenglin Li, Junni Zou, Hongkai Xiong. "Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation." *IEEE Data Compression Conference (DCC 2026)*, Snowbird, Utah, USA, Mar. 24-27, 2026.
 * Shuoyu Ma, Wenrui Dai, Maida Cao, **Shaohui Li**, Ziyang Zheng, Chenglin Li, Junni Zou, Hongkai Xiong. "Pushing Bit-Width Limits in LLM Quantization With Saliency-Guided Mix-Precision Allocation and Learnable Affine Transformation." *IEEE Data Compression Conference (DCC 2026)*, Snowbird, Utah, USA, Mar. 24-27, 2026.
 * Yuwen Pan, Yuan Wang, **Shaohui Li**, Zhi Li, Yu Liu, You He. "From Attraction to Equilibrium: Physics-Inspired Semantic Gravitons for Zero-Shot Anomaly Detection." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)*, Denver, CO, USA, Jun. 3-7, 2026.
