@@ -45,6 +45,8 @@ Publications
 
 ### 2026
 
+* Lisha Wang, Wenrui Dai, Junni Zou, Ziyang Zheng, **Shaohui Li**, Chenglin Li, Hongkai Xiong. "Gauge Equivariant Capsule Networks." Accepted by *ACM Transactions on Graphics (TOG)*, 2026.
+* Junyu Zhou, Wenrui Dai, Junni Zou, Ziyang Zheng, **Shaohui Li**, Chenglin Li, Hongkai Xiong. "Learnable Geometric Filter Banks for Multiscale Representation of 3-D Shapes." Accepted by *IEEE Transactions on Signal Processing (TSP)*, 2026.
 * Xinyu Peng, Ziyang Zheng, Wenrui Dai, Duoduo Xue, **Shaohui Li**, Chenglin Li, Junni Zou, Hongkai Xiong. "Information-Theoretic Optimization for Task-Adapted Compressed Sensing Magnetic Resonance Imaging." Accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2026.
 * Shiyu Liu, Wenrui Dai, **Shaohui Li**, Ziyang Zheng, Junni Zou, Hongkai Xiong. "Stable Representation Learning via Generalized Learnable Graph Scattering Transform." Accepted by *IEEE Transactions on Signal Processing (TSP)*, 2026.
 * Huajie Wang, Zhi Li, **Shaohui Li**, Yu Liu\*, You He. "Unfolding Sample-Level Difficulty for Adaptive Pseudo-Labeling in Semi-Supervised Learning." *Chinese Journal of Electronics (CJE)*, vol. 35, no. 2, pp. 1-14, 2026. DOI: 10.23919/cje.2025.00.128.
