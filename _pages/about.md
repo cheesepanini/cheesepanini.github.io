@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Shaohui Li (李劭辉)** is a ZJU100 Young Professor (Hundred Talents Program Research Fellow) and Ph.D. Supervisor at the College of Information Science & Electronic Engineering, Zhejiang University. His research interests mainly include **video and image coding**, **signal processing**, and **multi-agent systems**. Currently, he is leading a National Natural Science Foundation of China (NSFC) Young Scientists Fund project and has participated in multiple major and key NSFC projects. He has received honors such as the Second Prize for Technological Invention from the Chinese Institute of Electronics and the First Prize for Science and Technology Progress from Shanghai Municipality. He was also selected for the 2023 Postdoctoral Innovative Talent Support Program. He has published over 50 papers in relevant journals and conferences including IEEE TSP, IEEE TCSVT, ICLR, ICML, ECCV, etc., and holds over 20 authorized invention patents (including 2 US patents). He co-authored the monograph *Frontier of Artificial Intelligence Development (人工智能发展前沿)*.
+**Shaohui Li (李劭辉)** is a ZJU100 Young Professor (Hundred Talents Program Research Fellow) and Ph.D. Supervisor at the College of Information Science & Electronic Engineering, Zhejiang University. His research interests mainly include **video and image coding**, **signal processing**, and **multi-agent systems**. Currently, he is leading a National Natural Science Foundation of China (NSFC) Young Scientists Fund project and has participated in multiple major and key NSFC projects. He has received honors such as the Second Prize for Technological Invention from the Chinese Institute of Electronics and the First Prize for Science and Technology Progress from Shanghai Municipality. He was also selected for the 2023 Postdoctoral Innovative Talent Support Program. He has published over 50 papers in relevant journals and conferences including IEEE TSP, IEEE TCSVT, ICLR, ICML, ECCV, etc., and holds over 20 authorized invention patents (including 2 US patents). He co-authored the monograph *Frontier of Artificial Intelligence Development (人工智能发展前沿)* and *Introduction to Artificial Intelligence (人工智能导论)*.
 
 Research Interests
 ======
@@ -144,4 +144,6 @@ Publications
 
 ### III. Books
 
-* You He, Huchuan Lu, Dong Wang, Zheng Li, Xu Chen, **Shaohui Li**. "Frontiers of Artificial Intelligence Development." Beijing: Tsinghua University Press, October 2025. ([JD Link](https://item.jd.com/14539183.html))
+* You He, **Shaohui Li**, Zhi Li. "Introduction to Artificial Intelligence." Beijing: Tsinghua University Press, July 2026. ([JD Link](https://item.jd.com/14736799.html))
+
+* You He, Huchuan Lu, Dong Wang, Zhi Li, Xu Chen, **Shaohui Li**. "Frontiers of Artificial Intelligence Development." Beijing: Tsinghua University Press, October 2025. ([JD Link](https://item.jd.com/14539183.html))
