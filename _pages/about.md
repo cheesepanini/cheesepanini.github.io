@@ -51,7 +51,7 @@ Publications
 * Shiyu Liu, Wenrui Dai, **Shaohui Li**, Ziyang Zheng, Junni Zou, Hongkai Xiong. "Stable Representation Learning via Generalized Learnable Graph Scattering Transform." *IEEE Transactions on Signal Processing (TSP)*, vol. 74, pp. 701-716, 2026. DOI: 10.1109/TSP.2026.3660885.
 * Xin Li, **Shaohui Li**, Wenrui Dai, Han Li, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong. "Point Cloud Attribute Compression with Geometry-Aware Lifting-Based Multiscale Networks." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 36, no. 1, pp. 1143-1159, Jan. 2026. DOI: 10.1109/TCSVT.2025.3597448.
 * Huajie Wang, Zhi Li, **Shaohui Li**, Yu Liu\*, You He. "Unfolding Sample-Level Difficulty for Adaptive Pseudo-Labeling in Semi-Supervised Learning." *Chinese Journal of Electronics (CJE)*, vol. 35, no. 2, pp. 1-14, 2026. DOI: 10.23919/cje.2025.00.128.
-* Huajie Wang, Zhi Li\*, **Shaohui Li**, Yu Liu\*, You He. "Low-confidence Pseudo-label Decoupling Exploration for Source Free Object Detection." *IEEE Signal Processing Letters (SPL)*, vol. 33, pp. 908-912, 2026.
+* Huajie Wang, Zhi Li\*, **Shaohui Li**, Yu Liu\*, You He. "Low-confidence Pseudo-label Decoupling Exploration for Source Free Object Detection." *IEEE Signal Processing Letters (SPL)*, vol. 33, pp. 908-912, 2026. DOI: 10.1109/LSP.2026.3652962.
 
 ### 2025
 
@@ -60,24 +60,24 @@ Publications
 * **Shaohui Li**, Shuoyu Ma, Wenrui Dai, Nuowen Kan, Fan Cheng, Chenglin Li, Junni Zou, Hongkai Xiong. "Task-Adapted Learnable Embedded Quantization for Scalable Human-Machine Image Compression." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 35, no. 5, pp. 4768-4783, May 2025. DOI: 10.1109/TCSVT.2025.3525664.
 * Maida Cao, Wenrui Dai, **Shaohui Li**, Chenglin Li, Junni Zou, Ying Chen, Hongkai Xiong. "End-to-End Optimized Image Compression with Deep Gaussian Process Regression." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 35, no. 4, pp. 3770-3785, Apr. 2025. DOI: 10.1109/TCSVT.2022.3209661.
 * Hao Dong, **Shaohui Li**, Nuowen Kan, Ziyang Zheng, Wenrui Dai, Hongkai Xiong. "Research on Joint Source-Channel Coding Method Based on Deep Compressed Sensing." *Acta Electronica Sinica*. Accepted, 2025.
-* You He, Shulan Ruan\*, Dong Wang\*, Huchuan Lu, Zhi Li, Yang Liu, Xu Chen, **Shaohui Li**, Jie Zhao, Jiaxuan Liang. "Intelligent Decision-Making Driven by Large AI Models: Progress, Challenges and Prospects." *CAAI Transactions on Intelligence Technology (CIT)*, vol. 10, no. 6, pp. 1573-1592, Dec. 2025.
-* Baihui Xiao, Shulan Ruan\*, Zhi Li, **Shaohui Li**, Yu Liu, Xiu Li, You He. "Improving Radar-Camera Fusion for 3D Object Detection via Eliciting Knowledge From Foundation Model." *IEEE/ASME Transactions on Mechatronics (TMech)*, vol. 30, no. 6, pp. 4216-4225, Dec. 2025.
-* Yuxin Ke, **Shaohui Li**, Zhi Li, Haoran Li, Yu Liu\*, You He. "ArenaSim: A High-Performance Simulation Platform for Multi-Robot Self-Play Learning." *IEEE Robotics and Automation Letters (RAL)*, vol. 10, no. 6, pp. 5497-5504, June 2025.
+* You He, Shulan Ruan\*, Dong Wang\*, Huchuan Lu, Zhi Li, Yang Liu, Xu Chen, **Shaohui Li**, Jie Zhao, Jiaxuan Liang. "Intelligent Decision-Making Driven by Large AI Models: Progress, Challenges and Prospects." *CAAI Transactions on Intelligence Technology (CIT)*, vol. 10, no. 6, pp. 1573-1592, Dec. 2025. DOI: 10.1049/CIT2.70084.
+* Baihui Xiao, Shulan Ruan\*, Zhi Li, **Shaohui Li**, Yu Liu, Xiu Li, You He. "Improving Radar-Camera Fusion for 3D Object Detection via Eliciting Knowledge From Foundation Model." *IEEE/ASME Transactions on Mechatronics (TMech)*, vol. 30, no. 6, pp. 4216-4225, Dec. 2025. DOI: 10.1109/TMECH.2025.3584379.
+* Yuxin Ke, **Shaohui Li**, Zhi Li, Haoran Li, Yu Liu\*, You He. "ArenaSim: A High-Performance Simulation Platform for Multi-Robot Self-Play Learning." *IEEE Robotics and Automation Letters (RAL)*, vol. 10, no. 6, pp. 5497-5504, June 2025. DOI: 10.1109/LRA.2025.3557224.
 
 ### 2024
 
-* Xin Li, Wenrui Dai, **Shaohui Li**, Chenglin Li, Junni Zou, Hongkai Xiong. "3-D Point Cloud Attribute Compression with $p$-Laplacian Embedding Graph Dictionary Learning." *IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, vol. 46, no. 2, pp. 975-993, Feb. 2024.
+* Xin Li, Wenrui Dai, **Shaohui Li**, Chenglin Li, Junni Zou, Hongkai Xiong. "3-D Point Cloud Attribute Compression with $p$-Laplacian Embedding Graph Dictionary Learning." *IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, vol. 46, no. 2, pp. 975-993, Feb. 2024. DOI: 10.1109/TPAMI.2023.3328377.
 * **Shaohui Li**, Wenrui Dai, Yimian Fang, Ziyang Zheng, Wen Fei, Hongkai Xiong, Wei Zhang. "Revisiting Learned Image Compression With Statistical Measurement of Latent Representations." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 34, no. 4, pp. 2891-2907, Apr. 2024. DOI: 10.1109/TCSVT.2023.3300316.
 
 ### 2023
 
-* Yuehan Xiong, Wenrui Dai, Wen Fei, **Shaohui Li**, Hongkai Xiong. "Anisotropic Spherical Scattering Networks via Directional Spin Wavelet." *IEEE Transactions on Signal Processing (TSP)*, vol. 71, pp. 2981-2996, 2023.
-* **Shaohui Li**, Han Li, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong. "Learned Progressive Image Compression with Dead-Zone Quantizers." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 33, no. 6, pp. 2962-2978, June 2023.
-* Lisha Wang, Chenglin Li, Wenrui Dai, **Shaohui Li**, Junni Zou, Hongkai Xiong. "QoE-Driven Adaptive Streaming for Point Clouds." *IEEE Transactions on Multimedia (TMM)*, vol. 25, pp. 2543-2558, 2023.
+* Yuehan Xiong, Wenrui Dai, Wen Fei, **Shaohui Li**, Hongkai Xiong. "Anisotropic Spherical Scattering Networks via Directional Spin Wavelet." *IEEE Transactions on Signal Processing (TSP)*, vol. 71, pp. 2981-2996, 2023. DOI: 10.1109/TSP.2023.3304410.
+* **Shaohui Li**, Han Li, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong. "Learned Progressive Image Compression with Dead-Zone Quantizers." *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 33, no. 6, pp. 2962-2978, June 2023. DOI: 10.1109/TCSVT.2022.3229701.
+* Lisha Wang, Chenglin Li, Wenrui Dai, **Shaohui Li**, Junni Zou, Hongkai Xiong. "QoE-Driven Adaptive Streaming for Point Clouds." *IEEE Transactions on Multimedia (TMM)*, vol. 25, pp. 2543-2558, 2023. DOI: 10.1109/TMM.2022.3148585.
 
 ### 2021
 
-* **Shaohui Li**, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong. "Reversible Autoencoder: A CNN-based Nonlinear Lifting Scheme for Image Reconstruction." *IEEE Transactions on Signal Processing (TSP)*, vol. 69, pp. 3117-3131, 2021.
+* **Shaohui Li**, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong. "Reversible Autoencoder: A CNN-based Nonlinear Lifting Scheme for Image Reconstruction." *IEEE Transactions on Signal Processing (TSP)*, vol. 69, pp. 3117-3131, 2021. DOI: 10.1109/TSP.2021.3082465.
 
 
 ### II. Conference Papers
@@ -103,17 +103,17 @@ Publications
 * Han Li, **Shaohui Li**, Shuangrui Ding, Wenrui Dai, Maida Cao, Chenglin Li, Junni Zou, Hongkai Xiong. "Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation." *European Conference on Computer Vision (ECCV 2024)*, MiCo Milano, Italy, pp. 382-399, Oct. 2024. DOI: 10.1007/978-3-031-72983-6_22.
 * Han Li, **Shaohui Li**, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong. "Frequency-Aware Transformer for Learned Image Compression." *International Conference on Learning Representations (ICLR 2024)*, Vienna, Austria, May 2024.
 * Maida Cao, Wenrui Dai, **Shaohui Li**, Han Li, Chenglin Li, Junni Zou, Hongkai Xiong. "Entropy Relaxed Lattice Vector Quantization for Learned Image Compression." *IEEE Data Compression Conference (DCC 2024)*, Snowbird, Utah, USA, pp. 548-548, Mar. 19-22, 2024. DOI: 10.1109/DCC58796.2024.00065.
-* Nantian He, **Shaohui Li**, Zhi Li, Yu Liu\*, You He. "ReDiffuser: Reliable Decision-Making Using a Diffuser with Confidence Estimation." *International Conference on Machine Learning (ICML 2024)*, Vienna, Austria, pp. 17921-17933, July 21-27, 2024.
-* Runqi Yang, Yu Liu\*, Zhi Li, **Shaohui Li**, Likang Wu. "Rethinking Offline Reinforcement Learning for Sequential Recommendation from A Pair-Wise Q-Learning Perspective." *International Joint Conference on Neural Networks (IJCNN 2024)*, Yokohama, Japan, Jun. 30-Jul. 5, 2024.
-* Shixin Hong, Yu Liu\*, Zhi Li, **Shaohui Li**, You He. "Multi-agent Collaborative Perception via Motion-aware Robust Communication Network." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)*, Seattle, USA, pp. 15301-15310, Jun. 17-21, 2024.
-* Weibo Jiang, **Shaohui Li**, Zhi Li, Yuxin Ke, Zhizhuo Jiang, Yaowen Li, Yu Liu\*. "Dual-Policy-Guided Offline Reinforcement Learning with Optimal Stopping." *International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)*, Auckland, New Zealand, pp. 2315-2317, May 6-10, 2024.
-* Danxu Li, Zhi Li\*, **Shaohui Li**, Huajie Wang, Yu Liu\*. "Formation Navigation with Relative Distance Maintenance in Obstacle Environments." *First Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, April 2024. (Oral)
+* Nantian He, **Shaohui Li**, Zhi Li, Yu Liu\*, You He. "ReDiffuser: Reliable Decision-Making Using a Diffuser with Confidence Estimation." *International Conference on Machine Learning (ICML 2024)*, Vienna, Austria, pp. 17921-17933, July 21-27, 2024. DOI: 10.5555/3692070.3692787.
+* Runqi Yang, Yu Liu\*, Zhi Li, **Shaohui Li**, Likang Wu. "Rethinking Offline Reinforcement Learning for Sequential Recommendation from A Pair-Wise Q-Learning Perspective." *International Joint Conference on Neural Networks (IJCNN 2024)*, Yokohama, Japan, Jun. 30-Jul. 5, 2024. DOI: 10.1109/IJCNN60899.2024.10650400.
+* Shixin Hong, Yu Liu\*, Zhi Li, **Shaohui Li**, You He. "Multi-agent Collaborative Perception via Motion-aware Robust Communication Network." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)*, Seattle, USA, pp. 15301-15310, Jun. 17-21, 2024. DOI: 10.1109/CVPR52733.2024.01449.
+* Weibo Jiang, **Shaohui Li**, Zhi Li, Yuxin Ke, Zhizhuo Jiang, Yaowen Li, Yu Liu\*. "Dual-Policy-Guided Offline Reinforcement Learning with Optimal Stopping." *International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)*, Auckland, New Zealand, pp. 2315-2317, May 6-10, 2024. DOI: 10.65109/OTAP7856.
+* Danxu Li, Zhi Li\*, **Shaohui Li**, Huajie Wang, Yu Liu\*. "Formation Navigation with Relative Distance Maintenance in Obstacle Environments." *First Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, April 2024. DOI: 10.1117/12.3032687. (Oral)
 
 ### 2023
 
 * Wenxin Tian, **Shaohui Li**, Wenrui Dai, Cewu Lu, Weisheng Hu, Lin Zhang, Junfeng Du, Hongkai Xiong. "Learned Progressive Image Compression With Spatial Autoregression." *IEEE International Conference on Visual Communications and Image Processing (VCIP 2023)*, Jeju, Korea, pp. 1-5, Dec. 2023. DOI: 10.1109/VCIP59821.2023.10402767.
 * Yimian Fang, Wen Fei, **Shaohui Li**, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong. "Fully Integerized End-to-End Learned Image Compression." *IEEE Data Compression Conference (DCC 2023)*, Snowbird, Utah, USA, pp. 337-337, Mar. 21-24, 2023. DOI: 10.1109/DCC55655.2023.00049.
-* Ning Gong, Zhi Li, **Shaohui Li**, Yuxin Ke, Zhizhuo Jiang, Yaowen Li, Yu Liu\*. "Multi-agent Perception via Co-attentive Communication Mechanism." *Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2023)*, Xiamen, China, pp. 409-421, Oct. 13-15, 2023.
+* Ning Gong, Zhi Li, **Shaohui Li**, Yuxin Ke, Zhizhuo Jiang, Yaowen Li, Yu Liu\*. "Multi-agent Perception via Co-attentive Communication Mechanism." *Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2023)*, Xiamen, China, pp. 409-421, Oct. 13-15, 2023. DOI: 10.1007/978-981-99-8537-1_33.
 
 ### 2022
 
